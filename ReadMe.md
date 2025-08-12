@@ -1,7 +1,7 @@
 # GLASS-OS  
 An Open-Source Operating System for Smart Glasses
 
-![GLASS-OS Logo Placeholder] <!--(docs/logo.png)  Replace with your actual logo -->
+<!-- ![GLASS-OS Logo Placeholder] (docs/logo.png)  Replace with your actual logo -->
 
 ---
 
