@@ -40,15 +40,7 @@ We welcome contributions from developers, designers, and AR/AI enthusiasts.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
 
----
-
-## 📅 Roadmap  
-- **MVP** — Bootable AOSP image for reference hardware  
-- **Core Features** — Navigation, calling, and basic AI API  
-- **Extended AI** — Gesture translation and object recognition  
-- **Developer SDK** — Allow third-party AR/AI app creation  
-
----
+--- 
 
 ## 📜 License  
 GLASS-OS is released under the **Apache 2.0 License**.  
