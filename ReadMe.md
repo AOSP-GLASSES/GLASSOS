@@ -38,7 +38,21 @@ We welcome contributions from developers, designers, and AR/AI enthusiasts.
 3. Submit a pull request  
 4. Join the discussion on our community chat *(link coming soon)*
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
+# Contributing to GLASS-OS
+
+Thank you for your interest in contributing to **GLASS-OS**!  
+We welcome developers, designers, testers, and AR/AI enthusiasts of all experience levels.  
+
+---
+
+## 📌 How to Contribute
+
+### 1. Fork & Clone the Repository
+1. Click the **Fork** button on this repository.  
+2. Clone your fork locally:
+   ```bash
+   git clone https://github.com/AOSP-GLASSES/GLASSOS.git
+   cd glass-os
 
 --- 
 
