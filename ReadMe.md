@@ -53,7 +53,9 @@ We welcome developers, designers, testers, and AR/AI enthusiasts of all experien
    ```bash
    git clone https://github.com/AOSP-GLASSES/GLASSOS.git
    cd glass-os
-
+### 1. Branch  the Repository
+1. cd GLASSOS
+2. git checkout -b feature/my-feature
 --- 
 
 ## 📜 License  
@@ -63,3 +65,4 @@ See [`LICENSE`](LICENSE) for more information.
 ---
 
 💡 *This is our idea — and we believe it’s possible sooner rather than later. So… latest words? Let’s build together!* 🚀
+HAVE FUN !
